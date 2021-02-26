@@ -9,3 +9,14 @@ Gusto de visitar el perfil del alumno ✨ Alejandro Espinoza Castillo ✨.
 - 😄 Listo para aprender herramientas
 - ⚡ Sabias: El conocimiento es poder
 
+### MI HORARIO
+
+|       |                 Lunes                 |                 Martes                |               Miercoles               |                 Jueves                |            Viernes           |
+|-------|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:----------------------------:|
+| 13:00 |        Taller de Base de datos        |        Taller de Base de datos        |        Taller de Base de datos        |        Taller de Base de datos        |                              |
+| 14:00 |         Lenguajes de interfaz         |         Lenguajes de interfaz         |         Lenguajes de interfaz         |         Lenguajes de interfaz         |                              |
+| 15:00 |      Arquitectura de computadoras     |      Arquitectura de computadoras     |      Arquitectura de computadoras     |      Arquitectura de computadoras     | Arquitectura de computadoras |
+| 16:00 |        Lenguajes y automatas I        |        Lenguajes y automatas I        |        Lenguajes y automatas I        |        Lenguajes y automatas I        |    Lenguajes y automatas I   |
+| 17:00 | Fundamentos de ingenieria en software | Fundamentos de ingenieria en software | Fundamentos de ingenieria en software | Fundamentos de ingenieria en software |                              |
+| 18:00 |   Fundamentos de telecomunicaciones   |   Fundamentos de telecomunicaciones   |   Fundamentos de telecomunicaciones   |   Fundamentos de telecomunicaciones   |                              |
+| 19:00 |          Sistemas operativos          |          Sistemas operativos          |          Sistemas operativos          |          Sistemas operativos          |                              |
