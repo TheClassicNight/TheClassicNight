@@ -11,12 +11,10 @@ Gusto de visitar el perfil del alumno ✨ Alejandro Espinoza Castillo ✨.
 
 ### MI HORARIO
 
-|       |                 Lunes                 |                 Martes                |               Miercoles               |                 Jueves                |            Viernes           |
-|-------|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:----------------------------:|
-| 13:00 |        Taller de Base de datos        |        Taller de Base de datos        |        Taller de Base de datos        |        Taller de Base de datos        |                              |
-| 14:00 |         Lenguajes de interfaz         |         Lenguajes de interfaz         |         Lenguajes de interfaz         |         Lenguajes de interfaz         |                              |
-| 15:00 |      Arquitectura de computadoras     |      Arquitectura de computadoras     |      Arquitectura de computadoras     |      Arquitectura de computadoras     | Arquitectura de computadoras |
-| 16:00 |        Lenguajes y automatas I        |        Lenguajes y automatas I        |        Lenguajes y automatas I        |        Lenguajes y automatas I        |    Lenguajes y automatas I   |
-| 17:00 | Fundamentos de ingenieria en software | Fundamentos de ingenieria en software | Fundamentos de ingenieria en software | Fundamentos de ingenieria en software |                              |
-| 18:00 |   Fundamentos de telecomunicaciones   |   Fundamentos de telecomunicaciones   |   Fundamentos de telecomunicaciones   |   Fundamentos de telecomunicaciones   |                              |
-| 19:00 |          Sistemas operativos          |          Sistemas operativos          |          Sistemas operativos          |          Sistemas operativos          |                              |
+| Hora  | Lunes                      | Martes                     | Miercoles                  | Jueves                     | Viernes                    |
+|-------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+| 14:00 | Gestion de Proyectos       | Gestion de Proyectos       | Gestion de Proyectos       | Gestion de Proyectos       | Gestion de Proyectos       |
+| 15:00 | Taller de Investigacion I  | Taller de Investigacion I  | Taller de Investigacion I  | Taller de Investigacion I  | Gestion de Proyectos       |
+| 16:00 | Enrutamiento de Redes      | Enrutamiento de Redes      | Enrutamiento de Redes      | Enrutamiento de Redes      | Enrutamiento de Redes      |
+| 17:00 | Sistemas Programables      | Sistemas Programables      | Sistemas Programables      | Sistemas Programables      |                            |
+| 18:00 | Programacion Web           | Programacion Web           | Programacion Web           | Programacion Web           | Programacion Web           |
